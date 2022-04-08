@@ -3,5 +3,7 @@ public class asdfasdf {
 
 
         System.out.println("merhaba");
+
+        System.out.println("hoşcakal");
     }
 }
